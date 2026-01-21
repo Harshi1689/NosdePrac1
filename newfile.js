@@ -5,3 +5,6 @@ export const g=9.5;
 
 //make sure that package.json file has { "type"="module"}before expoert
 // if not add it
+
+
+
