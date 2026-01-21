@@ -1,0 +1,17 @@
+{
+  "name": "practicejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "figlet": "^1.9.4"
+  },
+  "type":"module"
+}
